@@ -22,20 +22,23 @@ Python >>terminal >>py ||python ||python3
 
 Print a Hello World 
 
-
+image >> example
 .jpg
 .png
 .jpeg
 
-Poonam Chauhan
-filename.extension
-test
-first_file    >>
-firstProgram  >> most follow
-abc
-a
-firstprogram  
 
+Poonam Chauhan
+filename.extension  filename.py
+test.py          >>most follow
+first_file.py    
+firstProgram.py  >> most follow
+abc.py
+a.py
+
+Not followed
+firstprogram  
+FirstProgram
 
 
 

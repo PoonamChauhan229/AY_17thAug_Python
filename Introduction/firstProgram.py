@@ -12,5 +12,14 @@ print("Hello World")
 #cd >>Change directory
 
 # Terminal  >> urin correct path- directory
-# py filename 
+# python3 fileName 
+
+# Terminal >> cd folderName >>enter  >> writing
+# urin correct path- directory   >> checking
+# python3 fileName
+
+print("hjhjd")
+
+
+
 
