@@ -18,3 +18,7 @@ print(int(mangoes)+apples)  #25-10 >>15
 # int()  >> convert str/datatype >> int >> wholenumber
 
 # print(int("amulaya")) # throw error
+
+
+#Homework
+# Declare 5 another variables, try to print and do addition
