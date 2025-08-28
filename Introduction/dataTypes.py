@@ -39,25 +39,25 @@ allTest=greeting+" "+greet+" "+question1+" "+question2
 print(allTest)
 
 # Test in terminal
-# 3+3
+#integer +integer
+# 3+3 
 # 6
+
+#concatenation >> str + str
 # "3"+"3"
 # 33
-# "3"+3
-# 33
-# 3+"3"
-# 6
-# 3+4+"3"
-# 10
-# "3"+3+4
-# 334
-# 3+"3"+4
-# 10
-# 3+"3"+4
-# 10
-#  3+"3"+4+10
-# 20
 
+
+#Test in terminal > with filensme
+# "3"+3 >> str +int ?? >>33
+print("3"+str(3))
+
+print(40+3) # addition
+print("40"+str(3)) #concatenate >> 2 more 3 >> bring together
+
+# can only concatenate str (not "int") to str
+# str+int
+# int >> str  || str +str >> final output
 
 
 

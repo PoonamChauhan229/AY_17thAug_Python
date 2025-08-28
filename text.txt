@@ -40,6 +40,33 @@ Not followed
 firstprogram  
 FirstProgram
 
+python3 firstProgram.py  >> python3 
+
+python3
+
+
+
+Datatypes IN PYTHON >> 7 
+check what Datatypes  >> type(variablename)
+
+NUMERIC (NUMS)
+SEQUENCE (STRING)
+
+
+NUMERIC (NUMS)
+INT
+FLOAT
+COMPLEX
+
+INT >> INTEGER >> positive and negative values (no decimal)
+age=23
+apples=-10
+print(age)
+print(apples)
+print(type(age))
+print(type(apples))
+
+
 
 
 
