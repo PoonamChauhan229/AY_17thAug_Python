@@ -21,4 +21,13 @@ print(int(mangoes)+apples)  #25-10 >>15
 
 
 #Homework
-# Declare 5 another variables, try to print and do addition
+# Declare 5 another variables, try to print the addition of these 5 variables
+
+a="56"
+b=75
+c="78"
+d=90
+e="890"
+
+
+
