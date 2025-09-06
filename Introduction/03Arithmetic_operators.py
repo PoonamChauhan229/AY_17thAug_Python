@@ -13,8 +13,8 @@
 # / >>division >>o/p >>quotient >>5
 # % >>division >>o/p >>remainder >>0
 
-print(2**3) #2*2*2      >>8
-print(3**5) #3*3*3*3*3  >>243
+print("2**3 = ",2**3) #2*2*2      >>8
+print("3**5 = ",3**5) #3*3*3*3*3  >>243
 
 # **    >> exponent operator
 # 2 , 3 >>operands
@@ -35,6 +35,8 @@ t=7
 # assigning 7 value to t variable
 name="Amulaya"
 # assigning Amulaya value to name variable
+print("My name is "+name+" and m learning Python")
+
 
 
 
