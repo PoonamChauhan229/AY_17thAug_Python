@@ -28,6 +28,11 @@ num=79  # 1 >> 10 >> 5 *1 =5 to 5*10=50 # user wants
 for i in range(1,11,1):
     print(num,"*",i,"=",num*i)
 
+# as per the user input ||convert into integer
 number=int(input("Enter the number of which Multiplication You want :"))  # 1 >> 10 >> 5 *1 =5 to 5*10=50 # user wants
 for i in range(1,11,1):
     print(number,"*",i,"=",number*i)
+
+
+
+
